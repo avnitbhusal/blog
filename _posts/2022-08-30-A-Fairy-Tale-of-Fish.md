@@ -1,3 +1,7 @@
+---
+title: "A Fairy Tale Of Fish"
+date: 2022-08-30
+---
 Once upon a time, in a country far, far away, there was a small village at the base of a mountain. This village was called Tenby. The town had lived peacefully until one fateful day. 
 
 One day, a fellow fisherman from the town was fishing in the stream that came down from the mountain. While fishing, he saw that there were far fewer fish than usual. This seemed strange because the stream would always be full of fish, and he had caught no fish in the span of two hours. So, he decided to go to the chief of the village and tell him this. If it turned out the fish had migrated it would be a very bad thing for Tenby. Tenby relied heavily on fish, as it was their main source of food, and they could trade it to foreigners. 
